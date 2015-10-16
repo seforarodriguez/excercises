@@ -12,7 +12,7 @@ var code = "<div>" + planets + "</div>"
 
 var el = document.getElementById("planets");
 
-el document.getElementById("planets") = document.getElementById("planets") + code;
+el document.getElementById("planets") = code;
 
 // Use the map method to create a new array where the first letter of each planet is capitalized
 
